@@ -6,12 +6,13 @@ header {
   padding: 1rem;
   background-color: #ffe500;
   color: #cc1465;
-  font: "Sigmar One"
+  font: "Sigmar One";
+  font-family: 'Sigmar One', cursive;
 }
 
 .title {
   font-size: 3rem;
-  font: Georgia, "Sigmar One"
+  font: "Sigmar One";
 }
 
 nav {
@@ -25,6 +26,7 @@ nav {
 h2 {
   color: #cc1465;
   font-size: 1.875rem;
+  font: "Sigmar One";
 }
 
 footer {
