@@ -3,16 +3,16 @@ html {
 }
 
 header {
+  text-align: center;
   padding: 1rem;
+  margin: .3em;
   background-color: #ffe500;
   color: #cc1465;
   font: "Sigmar One";
   font-family: 'Sigmar One', cursive;
-}
-
-.title {
   font-size: 3rem;
-  font: "Sigmar One";
+  line-height: 1.5;
+
 }
 
 nav {
@@ -20,7 +20,8 @@ nav {
   padding: 0 .75em;
   margin: 3em;
   background-color: #cc1465;
-  color: #fff
+  color: #fff;
+  font-size: 1.125rem;
 }
 
 h2 {
@@ -31,5 +32,12 @@ h2 {
 
 footer {
   padding: 1rem;
-  background-color: #ffe500
+  background-color: #ffe500;
+  margin: .3em;
+  text-align: center;
+
+}
+
+.current a:hover {
+  background-color: #b20953;
 }
