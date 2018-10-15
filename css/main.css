@@ -1,3 +1,9 @@
 html {
+ font: normal 100% Georgia, "Sigmar One";
+}
 
+header {
+  padding: 1rem;
+  background-color: #ffe500;
+  text-decoration-color: #cc1465
 }
