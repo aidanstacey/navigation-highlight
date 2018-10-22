@@ -8,7 +8,7 @@ header {
   color: #cc1465;
   font: "Sigmar One";
   font-family: 'Sigmar One', cursive;
-  font-size: 3rem;
+  font-size: 1.875rem;
   line-height: 1.5;
 
 }
@@ -41,6 +41,7 @@ h1 {
   padding: .2em .5em .3em;
   background-color: #cc1465;
   border-radius: 4px;
+  margin: .3em;
   border: 0;
   color: #fff;
   text-decoration: none;
